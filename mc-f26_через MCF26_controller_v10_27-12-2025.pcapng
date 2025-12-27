@@ -1,0 +1,1244 @@
+
+
+
+А   M<+   яяяяяяяя 7 Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz (with SSE4.2)  % 64-bit Windows 10 (1909), build 18363    2 Dumpcap (Wireshark) 4.4.3 (v4.4.3-0-g66d7a52feb06)      А      ”          2 \Device\NPF_{4A7C122F-8A51-459B-AD8A-7A894DB4F535}   
+ Ethernet 4  	      % 64-bit Windows 10 (1909), build 18363       ”            фF щ_X‘ф   ф   яяяяяя`¤Lйt0 E  ж{f  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF 0gX‘m  m  `¤Lйt0р Ed E _*ѕ@ @€АЁ
+АЁd№эОK3а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118292" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF эhX‘m  m  яяяяяяр Ed E __њ@ @@АЁ
+яяяя№эОKхм<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118292" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF T±g‘ф   ф   яяяяяя`¤Lйt0 E  ж{g  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF Њёg‘m  m  `¤Lйt0р Ed E _+@ @‡ёАЁ
+АЁd№эОK2а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118293" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF ^єg‘m  m  яяяяяяр Ed E __°@ @,АЁ
+яяяя№эОKфм<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118293" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF 
+яv‘ф   ф   яяяяяя`¤Lйt0 E  ж{h  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF %
+w‘m  m  `¤Lйt0р Ed E _+@@ @‡ЏАЁ
+АЁd№эОK1а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118294" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF ёw‘m  m  яяяяяяр Ed E _`@ @НАЁ
+яяяя№эОKум<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118294" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF рX†‘ф   ф   яяяяяя`¤Lйt0 E  ж{i  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF ю`†‘m  m  `¤Lйt0р Ed E _+T@ @‡{АЁ
+АЁd№эОK0а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118295" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF ^a†‘m  m  яяяяяяр Ed E _`:@ @ўАЁ
+яяяя№эОKтм<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118295" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF 1«•‘ф   ф   яяяяяя`¤Lйt0 E  ж{j  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF ЈІ•‘m  m  `¤Lйt0р Ed E _+b@ @‡mАЁ
+АЁd№эОK/а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118296" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF эІ•‘m  m  яяяяяяр Ed E _`T@ @€АЁ
+яяяя№эОKсм<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118296" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     `       фF ь—‘>   >   р Ed`¤Lйt0 E  0+@ @  АЁdАЁ
+.|›l#solБtPЕ–ѓб  X‘XQв     `      \       фF ·‘<   <   `¤Lйt0р Ed E  (и@ @ОшАЁ
+АЁd›.|olБtl#{P9Хг­        \      8      фF B·‘    р Ed`¤Lйt0 E 
+,@ @  АЁdАЁ
+.|›l#{olБtPЕ–„»  <?xml version="1.0" encoding="GB2312" ?><XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="AUXPTZ_HEARTBEAT_MESSAGE" Msg_code="CMD_HEARTBEAT" Msg_flag="0" Sessionid="20251227114012_a030f8a3111a02e8"  />
+<MESSAGE_BODY/>
+</XML_ANJVISION>8     \       фF )ё‘<   <   `¤Lйt0р Ed E  (и@ @ОчАЁ
+АЁd›.|olБtl$]P9ХвЛ        \      \       фF Ўє‘<   <   `¤Lйt0р Ed E  ,и@ @ОтАЁ
+АЁd›.|olБtl$]P9Х1Э  X‘XQ  \      X       фF U™‘6   6   р Ed`¤Lйt0 E  (-@ @  АЁdАЁ
+.|›l$]olБxPЕ”ѓЩ    X             фF СU™‘      `¤Lйt0р Ed E  ти@ @О+АЁ
+АЁd›.|olБxl$]P9ХЄ›  Ж   <?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER
+Msg_type="AUXPTZ_HEARTBEAT_MESSAGE"
+Msg_code="CMD_HEARTBEAT"
+Msg_flag="0"
+/>
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>       X       фF $х™‘6   6   р Ed`¤Lйt0 E  (.@ @  АЁdАЁ
+.|›l$]olВBPИ ѓЩ    X            фF ±ъ¤‘ф   ф   яяяяяя`¤Lйt0 E  ж{k  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF ¶Ґ‘m  m  `¤Lйt0р Ed E _+‘@ @‡>АЁ
+АЁd№эОK.а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118297" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF Ґ‘m  m  яяяяяяр Ed E _`n@ @nАЁ
+яяяя№эОKрм<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118297" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     d       фF ќ#°‘B   B   р Ed`¤Lйt0 E  4/@ @  АЁdАЁ
+/k›7ЗЇ]    Ђяяѓе  ґ  d      d       фF ™$°‘B   B   `¤Lйt0р Ed E  4  @ @·АЁ
+АЁd›/k%
+Хг7ЗЇ^Ђ=}P  Њ   d      X       фF %°‘6   6   р Ed`¤Lйt0 E  (0@ @  АЁdАЁ
+/k›7ЗЇ^%
+ХдPИ ѓЩ    X      `       фF ’2°‘>   >   р Ed`¤Lйt0 E  01@ @  АЁdАЁ
+/k›7ЗЇ^%
+ХдPИ ѓб  X‘XQ    `      \       фF 3°‘<   <   `¤Lйt0р Ed E  (Щ
+@ @ЮАЁ
+АЁd›/k%
+Хд7ЗЇfP<ьЅу        \      t      фF 53°‘T  T  р Ed`¤Lйt0 E F2@ @  АЁdАЁ
+/k›7ЗЇf%
+ХдPИ „ч  
+<?xml version="1.0" encoding="GB2312" ?>
+<XML_TOPSEE>
+<MESSAGE_HEADER Msg_type="USER_AUTH_MESSAGE" Msg_code="CMD_USER_AUTH" Msg_channel="0" Msg_flag="0" Sessionid=""  />
+<MESSAGE_BODY>
+<USER_AUTH_PARAM Username="admin" Password="123456" AuthMethod="1" />
+</MESSAGE_BODY>
+</XML_TOPSEE>
+t     \       фF ›3°‘<   <   `¤Lйt0р Ed E  (Щ@ @ЮАЁ
+АЁd›/k%
+Хд7З°„P;ЮЅу        \      \       фF ф=°‘<   <   `¤Lйt0р Ed E  ,Щ@ @Ю АЁ
+АЁd›/k%
+Хд7З°„P;Ю
+  X‘XQ  \      X       фF eЬ°‘6   6   р Ed`¤Lйt0 E  (3@ @  АЁdАЁ
+/k›7З°„%
+ХиPЗюѓЩ    X      |      фF "Э°‘[  [  `¤Lйt0р Ed E MЩ
+@ @ЬЮАЁ
+АЁd›/k%
+Хи7З°„P;ЮБH  !  <?xml version="1.0" encoding="GB2312" ?>
+<XML_TOPSEE>
+<MESSAGE_HEADER
+Msg_type="USER_AUTH_MESSAGE"
+Msg_code="CMD_USER_AUTH"
+Msg_flag="0"
+/>
+<MESSAGE_BODY>
+<USER_AUTH_RESPONSE
+Sessionid="20251227230708_dc4d2628475c8ec0"
+Group="Administrator" myversion="1" 
+/>
+</MESSAGE_BODY>
+</XML_TOPSEE>  |     `       фF љи°‘>   >   р Ed`¤Lйt0 E  04@ @  АЁdАЁ
+/k›7З°„%
+Ч
+PЗkѓб  X‘XQг     `      \       фF (–±‘<   <   `¤Lйt0р Ed E  (Щ@ @ЮАЁ
+АЁd›/k%
+Ч
+7З°ЊP;ЦјК        \      <      фF X–±‘    р Ed`¤Lйt0 E 5@ @  АЁdАЁ
+/k›7З°Њ%
+Ч
+PЗk„ј  
+<?xml version="1.0" encoding="GB2312" ?>
+<XML_TOPSEE>
+<MESSAGE_HEADER Msg_type="SYSTEM_CONTROL_MESSAGE" Msg_code="1020" Msg_channel="0" Msg_flag="0" Sessionid="20251227230708_dc4d2628475c8ec0"  />
+<MESSAGE_BODY/>
+</XML_TOPSEE>   <     \       фF п–±‘<   <   `¤Lйt0р Ed E  (Щ@ @ЮАЁ
+АЁd›/k%
+Ч
+7З±oP:ујК        \      \       фF ћГ±‘<   <   `¤Lйt0р Ed E  ,Щ@ @ЭьАЁ
+АЁd›/k%
+Ч
+7З±oP:уЬ  X‘XQ  \      X       фF cІ‘6   6   р Ed`¤Lйt0 E  (6@ @  АЁdАЁ
+/k›7З±o%
+ЧPЗiѓЩ    X      $      фF LdІ‘    `¤Lйt0р Ed E цЩ@ @Щ1АЁ
+АЁd›/k%
+Ч7З±oP:у/  К  <?xml version="1.0" encoding="GB2312" ?>
+<XML_TOPSEE>
+<MESSAGE_HEADER
+Msg_type="SYSTEM_CONTROL_MESSAGE"
+Msg_code="1020"
+Msg_flag="0"
+/>
+<MESSAGE_BODY>
+<RESPONSE_PARAM SystemConfigString="+gpio_input+gpio_output+one_input+io_output_set+one_output+audio_amplify+ra_pcm+ra_mp3+audio_action_daynight+userosd_set+bmplogo_set+domains_check+arming_daynight+alarm_arming+device_report+create_timelapse+export_record+part_restore+arming_bytime+arming_audiodesc+ioout_arming+P2PNEWROOT+fixipcfg+video_qos+humanmosic+audioprompt+hd_disablemd+dhcp_fixtime+OSD_ANYPOS+ipaddrlimit+be_set_mtu+positioning_3d+hikconfig+commenable+TimeSpanNew+scare_off+cloud_authcode+with_qpsetting+af_setting+af_coordinate+antiflicker+VideoPD+pd_polygon_area+p2p_config+p2p_ac18pro+storage_support+schedule_record+picture_capture+alarm_server+forbid_video+crypt_upload+mp4_support+audio_Repartition+VideoShutter+audio_support+zh_cn+zh_tw+en_us+rs_py+ko-ko+front_replay+replay_bytime+media_capabiltiy+profile_setting+video_mask+system_maitain+ircut_setting+SEARCH_WIFIAP+LONG_TITLE+timezone_halfhour+p2p_cfg_support+md_18x22+ONEVIDEOMASK+vencodemode_set+wdr_setting+ledtype_set+ircut_leddelay+ircut_ledmanualswitch+ssl_email" />
+</MESSAGE_BODY>
+</XML_TOPSEE> $     X       фF 8і‘6   6   р Ed`¤Lйt0 E  (7@ @  АЁdАЁ
+/k›7З±o%
+ЫЯPИ ѓЩ    X            фF Lґ‘ф   ф   яяяяяя`¤Lйt0 E  ж{l  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF л[ґ‘m  m  `¤Lйt0р Ed E _+Ь@ @†уАЁ
+АЁd№эОK-а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118298" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF Щ]ґ‘m  m  яяяяяяр Ed E _`o@ @mАЁ
+яяяя№эОKпм<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118298" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF ўГ‘ф   ф   яяяяяя`¤Lйt0 E  ж{m  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF Ж©Г‘m  m  `¤Lйt0р Ed E _+х@ @†ЪАЁ
+АЁd№эОK,а<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118299" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF …«Г‘m  m  яяяяяяр Ed E _`w@ @eАЁ
+яяяя№эОKом<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118299" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF џмТ‘ф   ф   яяяяяя`¤Lйt0 E  ж{n  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF ZуТ‘m  m  `¤Lйt0р Ed E _,G@ @†€АЁ
+АЁd№эОK4й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118300" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF "хТ‘m  m  яяяяяяр Ed E _`У@ @	АЁ
+яяяя№эОKцх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118300" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF Ч8в‘ф   ф   яяяяяя`¤Lйt0 E  ж{o  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF д?в‘m  m  `¤Lйt0р Ed E _,њ@ @†3АЁ
+АЁd№эОK3й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118301" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF ЈAв‘m  m  яяяяяяр Ed E _`Ы@ @АЁ
+яяяя№эОKхх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118301" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF ѕ†с‘ф   ф   яяяяяя`¤Lйt0 E  ж{p  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF aЌс‘m  m  `¤Lйt0р Ed E _,Ї@ @† АЁ
+АЁd№эОK2й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118302" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF -Џс‘m  m  яяяяяяр Ed E _a@ @ѕАЁ
+яяяя№эОKфх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118302" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF hС ’ф   ф   яяяяяя`¤Lйt0 E  ж{q  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF ћЩ ’m  m  `¤Lйt0р Ed E _,Ь@ @…уАЁ
+АЁd№эОK1й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118303" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF &Ь ’m  m  яяяяяяр Ed E _aB@ @љАЁ
+яяяя№эОKух<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118303" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF ®’ф   ф   яяяяяя`¤Lйt0 E  ж{r  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF Z&’m  m  `¤Lйt0р Ed E _-+@ @…¤АЁ
+АЁd№эОK0й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118304" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF B(’m  m  яяяяяяр Ed E _a—@ @EАЁ
+яяяя№эОKтх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118304" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF ll’ф   ф   яяяяяя`¤Lйt0 E  ж{s  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF №s’m  m  `¤Lйt0р Ed E _-‹@ @…DАЁ
+АЁd№эОK/й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118305" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF 	w’m  m  яяяяяяр Ed E _aж@ @цАЁ
+яяяя№эОKсх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118305" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ           фF я№.’ф   ф   яяяяяя`¤Lйt0 E  ж{t  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF їА.’m  m  `¤Lйt0р Ed E _-Щ@ @„цАЁ
+АЁd№эОK.й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118306" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF Б.’m  m  яяяяяяр Ed E _aю@ @ЮАЁ
+яяяя№эОKрх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118306" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     `       фF Q¦1’>   >   р Ed`¤Lйt0 E  08@ @  АЁdАЁ
+.|›l$]olВBPИ ѓб  X‘XQв     `      \       фF й^2’<   <   `¤Lйt0р Ed E  (и@ @ОфАЁ
+АЁd›.|olВBl$eP9Хбх        \      8      фF _2’    р Ed`¤Lйt0 E 
+9@ @  АЁdАЁ
+.|›l$eolВBPИ „»  <?xml version="1.0" encoding="GB2312" ?><XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="AUXPTZ_HEARTBEAT_MESSAGE" Msg_code="CMD_HEARTBEAT" Msg_flag="0" Sessionid="20251227114012_a030f8a3111a02e8"  />
+<MESSAGE_BODY/>
+</XML_ANJVISION>8     \       фF ї_2’<   <   `¤Lйt0р Ed E  (и@ @ОуАЁ
+АЁd›.|olВBl%GP9Хб        \      \       фF b2’<   <   `¤Lйt0р Ed E  ,и@ @ОоАЁ
+АЁd›.|olВBl%GP9Х0%  X‘XQ  \      X       фF Г3’6   6   р Ed`¤Lйt0 E  (:@ @  АЁdАЁ
+.|›l%GolВFPЗюѓЩ    X             фF Б3’      `¤Lйt0р Ed E  ти@ @О'АЁ
+АЁd›.|olВFl%GP9ХЁг  Ж   <?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER
+Msg_type="AUXPTZ_HEARTBEAT_MESSAGE"
+Msg_code="CMD_HEARTBEAT"
+Msg_flag="0"
+/>
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>       X       фF ў3’6   6   р Ed`¤Lйt0 E  (;@ @  АЁdАЁ
+.|›l%GolГPЗ™ѓЩ    X            фF К>’ф   ф   яяяяяя`¤Lйt0 E  ж{u  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF з>’m  m  `¤Lйt0р Ed E _.9@ @„–АЁ
+АЁd№эОK-й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118307" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF G%>’m  m  яяяяяяр Ed E _aя@ @ЭАЁ
+яяяя№эОKпх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118307" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     `       фF 5K’>   >   р Ed`¤Lйt0 E  0<@ @  АЁdАЁ
+/k›7З±o%
+ЫЯPИ ѓб  X‘XQо     `      \       фF fіK’<   <   `¤Lйt0р Ed E  (Щ@ @ЭюАЁ
+АЁd›/k%
+ЫЯ7З±wP:л·ш        \      D      фF ЊіK’$  $  р Ed`¤Lйt0 E =@ @  АЁdАЁ
+/k›7З±w%
+ЫЯPИ „З  
+<?xml version="1.0" encoding="GB2312" ?>
+<XML_TOPSEE>
+<MESSAGE_HEADER Msg_type="AUXPTZ_HEARTBEAT_MESSAGE" Msg_code="CMD_HEARTBEAT" Msg_channel="0" Msg_flag="0" Sessionid="20251227230708_dc4d2628475c8ec0"  />
+<MESSAGE_BODY/>
+</XML_TOPSEE>D     \       фF 8ґK’<   <   `¤Lйt0р Ed E  (Щ@ @ЭэАЁ
+АЁd›/k%
+ЫЯ7ЗІeP9э·ш        \      \       фF ї¶K’<   <   `¤Lйt0р Ed E  ,Щ@ @ЭшАЁ
+АЁd›/k%
+ЫЯ7ЗІeP9э
+  X‘XQ  \      X       фF VL’6   6   р Ed`¤Lйt0 E  (>@ @  АЁdАЁ
+/k›7ЗІe%
+ЫгPЗюѓЩ    X            фF УVL’ъ   ъ   `¤Lйt0р Ed E  мЩ@ @Э7АЁ
+АЁd›/k%
+Ыг7ЗІeP9эм+  А   <?xml version="1.0" encoding="GB2312" ?>
+<XML_TOPSEE>
+<MESSAGE_HEADER
+Msg_type="AUXPTZ_HEARTBEAT_MESSAGE"
+Msg_code="CMD_HEARTBEAT"
+Msg_flag="0"
+/>
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_TOPSEE>        X       фF TтL’6   6   р Ed`¤Lйt0 E  (?@ @  АЁdАЁ
+/k›7ЗІe%
+Ь§PЗњѓЩ    X            фF шsM’ф   ф   яяяяяя`¤Lйt0 E  ж{v  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF Ф‚M’m  m  `¤Lйt0р Ed E _.‚@ @„MАЁ
+АЁd№эОK,й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118308" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF Ф‚M’m  m  яяяяяяр Ed E _b"@ @єАЁ
+яяяя№эОKох<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118308" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     L       фF zЂP’*   *   яяяяяя`¤Lйt0   `¤Lйt0АЁd      АЁ  L      X       фF Ш‰W’6   6   р Ed`¤Lйt0 E  (@@ @  АЁdАЁ
+/k›7ЗІe%
+Ь§P  ѓЩ    X            фF Ж\’ф   ф   яяяяяя`¤Lйt0 E  ж{w  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF ВН\’m  m  `¤Lйt0р Ed E _.—@ @„8АЁ
+АЁd№эОK+й<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118309" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF .и\’m  m  яяяяяяр Ed E _bN@ @ЋАЁ
+яяяя№эОKнх<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118309" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     L       фF №В_’*   *   яяяяяя`¤Lйt0   `¤Lйt0АЁd      АЁ  L            фF ^+l’ф   ф   яяяяяя`¤Lйt0 E  ж{x  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF 3l’m  m  `¤Lйt0р Ed E _.ш@ @ѓЧАЁ
+АЁd№эОK4и<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118310" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF Ы4l’m  m  яяяяяяр Ed E _bЋ@ @NАЁ
+яяяя№эОKцф<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118310" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     L       фF хo’*   *   яяяяяя`¤Lйt0   `¤Lйt0АЁd      АЁ  L            фF Bz{’ф   ф   яяяяяя`¤Lйt0 E  ж{y  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF Ѕѓ{’m  m  `¤Lйt0р Ed E _/Q@ @ѓ~АЁ
+АЁd№эОK3и<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118311" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF …{’m  m  яяяяяяр Ed E _bХ@ @АЁ
+яяяя№эОKхф<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118311" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     0      фF xю{’
+  
+   ^  ы`¤Lйt0 E  яЬ    АЁdа  ыйй л¤  „        	_agentdvr_tcplocal     ” '$a935a57a-dcc9-4d3f-9654-4cc0a192788cАА, !   ” 6    љ$a935a57a-dcc9-4d3f-9654-4cc0a192788cagentdvrАА,    ” 	txtvers=1HTTPS=falseАe     x юЂ      xя4¤*„/Аe     x ¬n1   0           фF 2ИЉ’ф   ф   яяяяяя`¤Lйt0 E  ж{z  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF ПОЉ’m  m  `¤Lйt0р Ed E _/Z@ @ѓuАЁ
+АЁd№эОK2и<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118312" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF NПЉ’m  m  яяяяяяр Ed E _c
+@ @ПАЁ
+яяяя№эОKфф<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118312" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     0      фF Z‚‹’
+  
+   ^  ы`¤Lйt0 E  яЬ    АЁdа  ыйй л¤  „        	_agentdvr_tcplocal     ” '$a935a57a-dcc9-4d3f-9654-4cc0a192788cАА, !   ” 6    љ$a935a57a-dcc9-4d3f-9654-4cc0a192788cagentdvrАА,    ” 	txtvers=1HTTPS=falseАe     x юЂ      xя4¤*„/Аe     x ¬n1   0           фF „љ’ф   ф   яяяяяя`¤Lйt0 E  ж{{  @  АЁdяяяяэО№ ТВп<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="1" Msg_flag="0" SOURCE="AJTOOLS" />
+<MESSAGE_BODY>
+</MESSAGE_BODY>
+</XML_ANJVISION>     ђ      фF љљ’m  m  `¤Lйt0р Ed E _/—@ @ѓ8АЁ
+АЁd№эОK1и<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118313" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     ђ      фF gљ’m  m  яяяяяяр Ed E _c6@ @¦АЁ
+яяяя№эОKуф<?xml version="1.0" encoding="GB2312" ?>
+<XML_ANJVISION>
+<MESSAGE_HEADER Msg_type="SYSTEM_SEARCHIPC_MESSAGE" Msg_code="3" Msg_flag="0" />
+<MESSAGE_BODY>
+<DEVICE_TYPE DeviceType="NVS-IPCAM-MCF26_V0" DeviceModule="MCF26" OSD="e09183e090bb2e20e0909be090b0e090b7e090b0e09180e090b5e090b2e090b0204c417a615245766120642e38"  />
+<IPC_SERIALNUMBER UUID="267861977879035" SerialNumber="EF00000005154564"  PLATFORMID="" P2PTYPE="0" P2PID="" P2PSTATUS="0" P2PNETCFGCODE="" runtime="118313" VERSION="MCF26_V0-A_BU_LIGHT V3.4.3.2 build 2025-09-25 14:54:33 " FACTORYMODE="0" AF_VERSION=""  />
+<LANConfig MacAddress="F0:00:05:15:45:64" DHCP="0" dhcpOffTime="12" ALLNET="0" IPAddress="192.168.1.10" Netmask="255.255.255.0" Gateway="0.0.0.0" DNS1="" DNS2="" hostname="IPCAM-154E12-MCF26_V0" MTU="1460" /> 
+<UserConfig>
+<Account Username="" Password=""
+Group="" Status="" />
+</UserConfig>
+
+<MediaStreamConfig>
+<StreamAccess Auth="1" VideoPort="554" RTPOverRTSP="1" enable_rtsp="1" 
+enable_web="1" WEBPort="80" 
+enable_comm="1" PTZPort="8091" 
+/>
+</MediaStreamConfig>
+
+</MESSAGE_BODY>
+</XML_ANJVISION>
+   ђ     l       фF MКЁ’  Counters provided by dumpcap  фF їµP‘  фF MКЁ’  r                     l   
