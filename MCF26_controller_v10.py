@@ -329,7 +329,7 @@ class AJNetSDKController:
         
         # GUI переменные
         self.ip_var = tk.StringVar(value="192.168.1.10")
-        self.port_var = tk.StringVar(value="34567")
+        self.port_var = tk.StringVar(value="8091")
         self.user_var = tk.StringVar(value="admin")
         self.pass_var = tk.StringVar(value="123456")
         self.channel_var = tk.IntVar(value=0)
